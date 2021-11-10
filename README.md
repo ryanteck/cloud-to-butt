@@ -11,5 +11,5 @@ That's it, that's the plugin.
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag Source.crx into the page that appears.
 
